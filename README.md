@@ -77,7 +77,6 @@ images/modelo-grafo.png
 
 # 📂 Estrutura do Repositório
 
-```
 recomendacao-musicas-grafos
 
 dataset/
@@ -88,7 +87,8 @@ criar-grafo.cypher
 importar-dados.cypher
 recomendacoes.cypher
 
-images/modelo-grafo.png
+images/
+modelo-grafo.png
 exemplo-recomendacao.png
 ```
 
