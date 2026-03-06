@@ -88,8 +88,7 @@ criar-grafo.cypher
 importar-dados.cypher
 recomendacoes.cypher
 
-images/
-modelo-grafo.png
+images/modelo-grafo.png
 exemplo-recomendacao.png
 ```
 
