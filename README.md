@@ -69,9 +69,7 @@ No caso deste projeto, o grafo permite descobrir recomendações como:
 
 Imagem do modelo:
 
-```
-![recomendacao-musicas-grafos]/(images/modelo-grafo.png)
-```
+![Modelo do Grafo](images/modelo-grafo.png)
 
 ---
 
